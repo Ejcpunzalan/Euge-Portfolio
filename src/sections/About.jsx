@@ -7,7 +7,7 @@ const About = () => {
 
         <div>
           <img
-            src="/Images/eugeowner.jpeg"
+            src="/images/eugeowner.jpeg"
             alt="profile"
             className="rounded-3xl"
           />

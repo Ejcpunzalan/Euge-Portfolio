@@ -1,14 +1,14 @@
 const skills = [
-  { name: "HTML", icon: "/Images/html.jpg" },
-  { name: "CSS", icon: "/Images/css.jpg" },
-  { name: "JavaScript", icon: "/Images/js.jpg" },
-  { name: "React", icon: "/Images/react.jpg" },
-  { name: "Node.js", icon: "/Images/node.jpg" },
-  { name: "Express", icon: "/Images/express.jpg" },
-  { name: "Tailwind CSS", icon: "/Images/tailwind.jpg" },
-  { name: "Git", icon: "/Images/git.jpg" },
-  { name: "Vercel", icon: "/Images/vercel.jpg" },
-  { name: "Netlify", icon: "/Images/netlify.jpg" },
+  { name: "HTML", icon: "/images/html.jpg" },
+  { name: "CSS", icon: "/images/css.jpg" },
+  { name: "JavaScript", icon: "/images/js.jpg" },
+  { name: "React", icon: "/images/react.jpg" },
+  { name: "Node.js", icon: "/images/node.jpg" },
+  { name: "Express", icon: "/images/express.jpg" },
+  { name: "Tailwind CSS", icon: "/images/tailwind.jpg" },
+  { name: "Git", icon: "/images/git.jpg" },
+  { name: "Vercel", icon: "/images/vercel.jpg" },
+  { name: "Netlify", icon: "/images/netlify.jpg" },
 ];
 const Skills = () => {
   return (
