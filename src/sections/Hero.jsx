@@ -70,7 +70,7 @@ const Hero = () => {
             View Projects
           </button>
           </a>
-           <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/Punzalan-EJC-CV.pdf" target="_blank" rel="noopener noreferrer">
   <button className="border border-white/20 hover:border-cyan-400 px-8 py-3 rounded-xl transition">
     View Resume
   </button>
