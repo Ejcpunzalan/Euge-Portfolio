@@ -1,27 +1,15 @@
-import html from "../images/html.jpg";
-import css from "../images/css.jpg";
-import js from "../images/js.jpg";
-import react from "../images/react.jpg";
-import node from "../images/node.jpg";
-import express from "../images/express.jpg";
-import tailwind from "../images/tailwind.jpg";
-import git from "../images/git.jpg";
-import vercel from "../images/vercel.jpg";
-import netlify from "../images/netlify.jpg";
-
 const skills = [
-  { name: "HTML", icon: html },
-  { name: "CSS", icon: css },
-  { name: "JavaScript", icon: js },
-  { name: "React", icon: react },
-  { name: "Node.js", icon: node },
-  { name: "Express", icon: express },
-  { name: "Tailwind CSS", icon: tailwind },
-  { name: "Git", icon: git },
-  { name: "Vercel", icon: vercel },
-  { name: "Netlify", icon: netlify },
+  { name: "HTML", icon: "/Images/html.jpg" },
+  { name: "CSS", icon: "/Images/css.jpg" },
+  { name: "JavaScript", icon: "/Images/js.jpg" },
+  { name: "React", icon: "/Images/react.jpg" },
+  { name: "Node.js", icon: "/Images/node.jpg" },
+  { name: "Express", icon: "/Images/express.jpg" },
+  { name: "Tailwind CSS", icon: "/Images/tailwind.jpg" },
+  { name: "Git", icon: "/Images/git.jpg" },
+  { name: "Vercel", icon: "/Images/vercel.jpg" },
+  { name: "Netlify", icon: "/Images/netlify.jpg" },
 ];
-
 const Skills = () => {
   return (
     <section id="skills" className="py-24 px-6">
